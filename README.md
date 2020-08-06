@@ -19,6 +19,10 @@
 </code>
 
 <code>
+  <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
+</code>
+
+<code>
   <a href="" title="Python"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
 </code>
 
@@ -42,9 +46,7 @@
   <a href="" title="Angular JS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
 </code>
 
-<code>
-  <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
-</code>
+<br>
 <br>
 <code>
   <a href="" title=".NetCore"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>

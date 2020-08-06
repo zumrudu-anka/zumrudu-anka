@@ -1,11 +1,11 @@
 ### Profiles
 
 <code>
-  <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.svg"> HackerRank</a>
+  <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
 </code>
-
+<br>
 <code>
-  <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+  <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.svg"> HackerRank</a>
 </code>
 
 ### Skills

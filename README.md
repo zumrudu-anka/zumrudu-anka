@@ -11,6 +11,14 @@
 ### Skills
 
 <code>
+  <a href="" title="C"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
+</code>
+
+<code>
+  <a href="" title="C++"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
+</code>
+
+<code>
   <a href="" title="Python"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
 </code>
 
@@ -28,6 +36,34 @@
 
 <code>
   <a href="" title="CSS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></a>
+</code>
+
+<code>
+  <a href="" title="Angular JS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
+</code>
+
+<code>
+  <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
+</code>
+
+<code>
+  <a href="" title=".NetCore"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
+</code>
+
+<code>
+  <a href="" title="Jquery"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></a>
+</code>
+
+<code>
+  <a href="" title="Java"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></a>
+</code>
+
+<code>
+  <a href="" title="JSON"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></a>
+</code>
+
+<code>
+  <a href="" title="Unity"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
 </code>
 
 <!--

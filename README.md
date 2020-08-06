@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HackerRank](https://github.com/zumrudu-anka/zumrudu-anka/tree/master/images/hackerrank.svg) HackerRank](https://www.hackerrank.com/zumrudu_anka)
+[![HackerRank](https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.svg) HackerRank](https://www.hackerrank.com/zumrudu_anka)
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -45,7 +45,7 @@
 <code>
   <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
 </code>
-
+<br>
 <code>
   <a href="" title=".NetCore"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
 </code>

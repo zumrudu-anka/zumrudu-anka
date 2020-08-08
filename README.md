@@ -68,6 +68,9 @@
   <a href="" title="Unity"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
 </code>
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=zumrudu-anka)
+
+
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

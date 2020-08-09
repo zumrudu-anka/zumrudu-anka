@@ -7,12 +7,12 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey.
+  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
   <br>
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
-  💻 I love writing code and learn anythings about it.
+  💻 I love writing code and learn anythings about it
   <br>
   🔬 I’m currently working on Django
   <br>

@@ -1,8 +1,8 @@
 <h3 align="center">Hello there, I'm Osman 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -33,7 +33,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="" title="C"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
+        <a href="" title="C"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="C++"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
+        <a href="" title="C++"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
+        <a href="" title="C#"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="Python"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
+        <a href="" title="Python"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="Django"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></a>
+        <a href="" title="Django"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="JavaScript"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></a>
+        <a href="" title="JavaScript"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="HTML5"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></a>
+        <a href="" title="HTML5"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="CSS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></a>
+        <a href="" title="CSS"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="Angular JS"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
+        <a href="" title="Angular JS"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title=".NetCore"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
+        <a href="" title=".NetCore"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -133,7 +133,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="Jquery"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></a>
+        <a href="" title="Jquery"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -143,7 +143,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="Java"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></a>
+        <a href="" title="Java"><img height="35" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -153,7 +153,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="JSON"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></a>
+        <a href="" title="JSON"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -163,7 +163,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="" title="Unity"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
+        <a href="" title="Unity"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
       </td>
       <td align="center">
           <code>
@@ -176,73 +176,9 @@
 
 <hr>
 
-<!-- 
-
-<code>
-  <a href="" title="C"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
-</code>
-
-<code>
-  <a href="" title="C++"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
-</code>
-
-<code>
-  <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
-</code>
-
-<code>
-  <a href="" title="Python"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
-</code>
-
-<code>
-  <a href="" title="Django"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></a>
-</code>
-
-<code>
-  <a href="" title="JavaScript"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></a>
-</code>
-
-<code>
-  <a href="" title="HTML5"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></a>
-</code>
-
-<code>
-  <a href="" title="CSS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></a>
-</code>
-
-<code>
-  <a href="" title="Angular JS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
-</code>
-
-<code>
-  <a href="" title=".NetCore"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
-</code>
-
-<code>
-  <a href="" title="Jquery"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></a>
-</code>
-
-<code>
-  <a href="" title="Java"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></a>
-</code>
-
-<code>
-  <a href="" title="JSON"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></a>
-</code>
-
-<code>
-  <a href="" title="Unity"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
-</code> 
--->
-
-<a href="" title="My Github Stats"><img width="100%" height="250" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30"></a>
+<a href="" title="My Github Stats"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
 
 <hr>
-
-<!--
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30)
--->
-
 
 <h2 align="center">Repositories</h2>
 

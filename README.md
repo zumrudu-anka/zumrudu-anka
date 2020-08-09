@@ -171,7 +171,7 @@
 -->
 
 
-<h2 align="center>Repositories</h2>
+<h2 align="center">Repositories</h2>
 
 <a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a>
 <br>

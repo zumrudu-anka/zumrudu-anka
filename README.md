@@ -178,6 +178,10 @@
 <a href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
 <br>
 <a href="https://github.com/zumrudu-anka/DataStructures" title="DataStructures"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+<br>
+  <h4 align="center"><a href="https://github.com/zumrudu-anka/DataStructures" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<hr>
+
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham)](https://github.com/zumrudu-anka/DataStructures)

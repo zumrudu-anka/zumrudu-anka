@@ -7,12 +7,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer 💻
+  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey :tr:
   <br>
   <br>
-  🔭 I’m currently working on Django
+  🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
-  🌱 I’m currently learning how to build E-Commerce Website with Django
+  💻 I love writing code and learn anythings about it.
+  <br>
+  🔬 I’m currently working on Django
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
   💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>

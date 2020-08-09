@@ -1,4 +1,109 @@
-### Skills
+## Skills
+
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Languages & Frameworks & Tools</th>
+      <th>Degree</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="" title="C"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
+      </td>
+      <td>
+        <code>
+          <span>
+            💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💯
+          </span>
+        </code>
+      </td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="C++"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="Python"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="Django"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="JavaScript"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="HTML5"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="CSS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="Angular JS"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title=".NetCore"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="Jquery"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="Java"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="JSON"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="" title="Unity"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
+      </td>
+      <td>awdqwdqwddddddddddddddddddddddddddddddddddddddddddddddddddddd</td>
+    <tr>
+  </tbody>
+</table>
+
+<br>
+
+<!-- 
 
 <code>
   <a href="" title="C"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
@@ -56,18 +161,39 @@
 
 <code>
   <a href="" title="Unity"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
+</code> 
+
+-->
+
+<br>
+<br>
+
+<code>
+  <a href="" title="My Github Stats"><img width="100%" height="250" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30"></a>
 </code>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30)
+<!--
+  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30)
+-->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham&card_width=10)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham&card_width=10)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)
+## Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham&card_width=10)](https://github.com/zumrudu-anka/DataStructures)
+<code>
+  <a href="https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP" title="ReadmeCard"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham"></a>
+</code>
+<br>
+<code>
+  <a href="https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP" title="ReadmeCard"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham"></a>
+</code>
+<br>
+<code>
+  <a href="https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP" title="ReadmeCard"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham"></a>
+</code>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham&card_width=1)](https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham&card_width=1)](https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019)
-
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham)](https://github.com/zumrudu-anka/DataStructures)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham)](https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham)](https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019) -->
 
 **Follow Me**
 

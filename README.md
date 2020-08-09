@@ -15,7 +15,7 @@
       <td>
         <code>
           <span>
-            💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💯
+            💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💯
           </span>
         </code>
       </td>

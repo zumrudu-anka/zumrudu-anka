@@ -14,7 +14,7 @@
       </td>
       <td>
           <code>
-            💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;🤍&nbsp;&nbsp;🤍
+            💙&nbsp;💙;&nbsp;💙&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;💙&nbsp;&nbsp;🤍&nbsp;&nbsp;🤍
           </code>
       </td>
     </tr>

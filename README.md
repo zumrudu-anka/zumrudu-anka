@@ -1,9 +1,9 @@
-<h2 align="center">Skills</h2>
+<h2 align="center">Languages & Frameworks & Tools</h2>
 
 <table align="center">
   <thead>
     <tr>
-      <th width="50%">Languages & Frameworks & Tools</th>
+      <th width="30%">Skill</th>
       <th>Degree</th>
     </tr>
   </thead>

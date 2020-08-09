@@ -3,7 +3,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th width="40%">Languages & Frameworks & Tools</th>
+      <th width="45%">Languages & Frameworks & Tools</th>
       <th>Degree</th>
     </tr>
   </thead>

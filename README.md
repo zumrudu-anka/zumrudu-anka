@@ -13,9 +13,9 @@
         <a href="" title="C"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -23,9 +23,9 @@
         <a href="" title="C++"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -33,9 +33,9 @@
         <a href="" title="C#"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -43,9 +43,9 @@
         <a href="" title="Python"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -53,9 +53,9 @@
         <a href="" title="Django"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -63,9 +63,9 @@
         <a href="" title="JavaScript"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -73,9 +73,9 @@
         <a href="" title="HTML5"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -83,9 +83,9 @@
         <a href="" title="CSS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -93,9 +93,9 @@
         <a href="" title="Angular JS"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -103,9 +103,9 @@
         <a href="" title=".NetCore"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍🤍🤍🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -113,9 +113,9 @@
         <a href="" title="Jquery"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -123,9 +123,9 @@
         <a href="" title="Java"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -133,9 +133,9 @@
         <a href="" title="JSON"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
     <tr>
@@ -143,9 +143,9 @@
         <a href="" title="Unity"><img height="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
       </td>
       <td>
-          <span>
+          <code>
             💙💙💙💙💙💙💙💙💙💙💙💙🤍🤍🤍🤍🤍🤍🤍🤍
-          </span>
+          </code>
       </td>
     </tr>
   </tbody>

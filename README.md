@@ -267,11 +267,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham)](https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019) -->
 
 <h3 align="center">Follow me</h3>
-<span align="center">
+<h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.svg"> HackerRank</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a>
   </code>
-</span>
+</h5>
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

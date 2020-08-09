@@ -266,9 +266,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham)](https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham)](https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019) -->
 
-**Follow Me**
+<h3 align="center">Follow me</h3>
 
-<code>
+<code align="center">
   <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.svg"> HackerRank</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a>
 </code>
 

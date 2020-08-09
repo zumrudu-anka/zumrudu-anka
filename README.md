@@ -1,4 +1,4 @@
-## Skills
+<h2 align="center">Skills</h2>
 
 <table>
   <thead>
@@ -101,7 +101,7 @@
   </tbody>
 </table>
 
-<br>
+<hr>
 
 <!-- 
 
@@ -141,8 +141,6 @@
   <a href="" title="Angular JS"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/angularjs.svg"></a>
 </code>
 
-<br>
-<br>
 <code>
   <a href="" title=".NetCore"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/dotnetcore.svg"></a>
 </code>
@@ -162,33 +160,24 @@
 <code>
   <a href="" title="Unity"><img height="50" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></a>
 </code> 
-
 -->
 
-<br>
-<br>
+<a href="" title="My Github Stats"><img width="100%" height="250" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30"></a>
 
-<code>
-  <a href="" title="My Github Stats"><img width="100%" height="250" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30"></a>
-</code>
+<hr>
 
 <!--
   ![My Github Stats](https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham&line_height=30)
 -->
 
-## Repositories
 
-<code>
-  <a href="https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP" title="ReadmeCard"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham"></a>
-</code>
+<h2 align="center>Repositories</h2>
+
+<a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a>
 <br>
-<code>
-  <a href="https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP" title="ReadmeCard"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham"></a>
-</code>
+<a href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
 <br>
-<code>
-  <a href="https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP" title="ReadmeCard"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham"></a>
-</code>
+<a href="https://github.com/zumrudu-anka/DataStructures" title="DataStructures"><img width="100%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham)](https://github.com/zumrudu-anka/DataStructures)

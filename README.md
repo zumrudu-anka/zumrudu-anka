@@ -7,7 +7,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey :tr:
+  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey.
   <br>
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department

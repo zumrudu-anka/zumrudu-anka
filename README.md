@@ -52,25 +52,24 @@
 <hr>
 
 <h2 align="center">Repositories</h2>
-
-<a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width="100%" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a>
+<p align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+</p>
 <br>
 <br>
-<a href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img width="100%" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
+<p align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
+</p>
 <br>
 <br>
-<a href="https://github.com/zumrudu-anka/DataStructures" title="DataStructures"><img width="100%" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
-<br>
-<br>
-<a href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy Move Forgery Detection With DCT"><img width="100%" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
-<br>
-<br>
-<a href="https://github.com/zumrudu-anka/NeedlemanWunschWithOpenMP" title="Needleman Wunsch Algorithm With OpenMP"><img width="100%" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a>
-<br>
-<br>
-<a href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img width="100%" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
-<br>
-  <h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<p align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/NeedlemanWunschWithOpenMP" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
+</p>
+<br><br><br><br><br><br><br><br><br><br>
+<h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham)](https://github.com/zumrudu-anka/DataStructures)

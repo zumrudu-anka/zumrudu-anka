@@ -47,7 +47,7 @@
 
 <hr>
 
-<a href="" title="My Github Stats"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="My Github Stats"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=gotham"></a>
 
 <hr>
 
@@ -73,11 +73,6 @@
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham)](https://github.com/zumrudu-anka/DataStructures)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschAlgorithmWithOpenMP&theme=gotham)](https://github.com/zumrudu-anka/NeedlemanWunschAlgorithmWithOpenMP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham)](https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019) -->
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

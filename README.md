@@ -68,7 +68,7 @@
   <a align="left" href="https://github.com/zumrudu-anka/NeedlemanWunschWithOpenMP" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a>
   <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
 </p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham)](https://github.com/zumrudu-anka/Algorithms)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham)](https://github.com/zumrudu-anka/Turkce-Heceleme-CPP)

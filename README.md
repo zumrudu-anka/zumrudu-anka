@@ -25,7 +25,7 @@
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Skills</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>

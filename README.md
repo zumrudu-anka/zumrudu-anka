@@ -65,7 +65,7 @@
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Artificial_Neural_Networks&theme=gotham"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">

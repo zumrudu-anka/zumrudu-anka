@@ -13,9 +13,9 @@
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
-  💻 I love writing code and learn anythings about it
+  🔬 I am currently studying for a master's degree in Ataturk University Computer Engineering Department.
   <br>
-  🔬 I’m currently working on Django
+  💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>

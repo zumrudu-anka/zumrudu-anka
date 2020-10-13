@@ -13,7 +13,7 @@
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
-  🔬 I am currently studying for a master's degree in Ataturk University Computer Engineering Department.
+  🔬 I am currently studying for a master's degree in Atatürk University Computer Engineering Department.
   <br>
   💻 I love writing code and learn anythings about it
   <br>

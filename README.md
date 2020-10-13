@@ -11,9 +11,9 @@
   Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
   <br>
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department.
+  🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
   <br>

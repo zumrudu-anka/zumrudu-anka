@@ -15,6 +15,8 @@
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django

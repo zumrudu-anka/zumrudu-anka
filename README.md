@@ -50,7 +50,7 @@
   <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
+  <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity3d.svg"></code>
 </p>
 
 <hr>

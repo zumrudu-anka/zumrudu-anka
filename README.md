@@ -55,11 +55,11 @@
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity3d.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/30_github.c0a4dde53e.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
-  <code><img title="Chrome" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/chrome.svg"></code>
+  <code><img title="Flask" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/57_flask-icon.eaaa141ab4.svg"></code>
 </p>
 
 <hr>
